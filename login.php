@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>RASTRAVE RASTREAMENTO | Login</title>
+    <title>MEU PASSE | Login</title>
 
    
 <script src="https://kit.fontawesome.com/a132241e15.js"></script>
@@ -33,7 +33,7 @@ body{
         <div>
             <div>
 
-                <img src="/tracker/Imagens/logo2.png" style="width:100%; height:auto">
+                <img src="https://rastraveweb.com.br/Imagens/logos/MeuPasse.png" style="width:100%; height:auto">
 
             </div><br>
             <h3><span style="color:#000"><b>SISTEMA DE GESTÃO DE VEÍCULOS</b></span></h3><br>
